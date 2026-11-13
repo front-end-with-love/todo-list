@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+._*
+node_modules/
+test-results/
+playwright-report/
+.history
+
+# Исходное ТЗ, по которому начиналась работа над проектом. Нужно только для
+# истории, в репозиторий не публикуется: рабочие источники — AGENTS.md,
+# PROJECT_BRIEF.md, MEMORY.md и docs/.
+FIRST_PROMPT.md

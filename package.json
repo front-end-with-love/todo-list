@@ -1,0 +1,14 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Список задач: HTML5, CSS3 (ITCSS + BEM), Vanilla JS (ES Modules, MVC-lite + Repository)",
+  "scripts": {
+    "serve": "http-server . -a 127.0.0.1 -p 4173 -c-1 --silent",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.0",
+    "http-server": "14.1.1"
+  }
+}
